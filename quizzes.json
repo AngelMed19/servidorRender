@@ -1,0 +1,115 @@
+{
+    "quizzes": [
+      {
+        "title": "JavaScript Quiz",
+        "questions": [
+          {
+            "question": "What is the output of '2' + 2 in JavaScript?",
+            "options": ["22", "4", "NaN", "Error"],
+            "correctAnswer": "22"
+          },
+          {
+            "question": "Which type of variable is used to store multiple values?",
+            "options": ["String", "Array", "Number", "Boolean"],
+            "correctAnswer": "Array"
+          },
+          {
+            "question": "How do you write a comment in JavaScript?",
+            "options": ["/* comment */", "// comment", "<!-- comment -->", "# comment"],
+            "correctAnswer": "// comment"
+          },
+          {
+            "question": "Which keyword is used to define a variable in JavaScript?",
+            "options": ["def", "var", "new", "int"],
+            "correctAnswer": "var"
+          },
+          {
+            "question": "How can you add an element at the end of an array?",
+            "options": ["push()", "pop()", "shift()", "unshift()"],
+            "correctAnswer": "push()"
+          }
+        ]
+      },
+      {
+        "title": "HTML Quiz",
+        "questions": [
+          {
+            "question": "What does HTML stand for?",
+            "options": [
+              "Hyper Text Markup Language",
+              "Home Tool Markup Language",
+              "Hyperlinks and Text Markup Language",
+              "Hyperlinks Text Markup Language"
+            ],
+            "correctAnswer": "Hyper Text Markup Language"
+          },
+          {
+            "question": "Who is making the Web standards?",
+            "options": ["Microsoft", "Mozilla", "The World Wide Web Consortium", "Google"],
+            "correctAnswer": "The World Wide Web Consortium"
+          },
+          {
+            "question": "Choose the correct HTML element for the largest heading:",
+            "options": ["<h6>", "<heading>", "<h1>", "<h3>"],
+            "correctAnswer": "<h1>"
+          },
+          {
+            "question": "What is the correct HTML element for inserting a line break?",
+            "options": ["<lb>", "<br>", "<break>", "<nl>"],
+            "correctAnswer": "<br>"
+          },
+          {
+            "question": "What is the correct HTML for creating a hyperlink?",
+            "options": [
+              "<a url='http://example.com'>Example</a>",
+              "<a href='http://example.com'>Example</a>",
+              "<link href='http://example.com'>",
+              "<href='http://example.com'>Example</a>"
+            ],
+            "correctAnswer": "<a href='http://example.com'>Example</a>"
+          }
+        ]
+      },
+      {
+        "title": "CSS Quiz",
+        "questions": [
+          {
+            "question": "What does CSS stand for?",
+            "options": [
+              "Cascading Style Sheets",
+              "Computer Style Sheets",
+              "Creative Style Sheets",
+              "Colorful Style Sheets"
+            ],
+            "correctAnswer": "Cascading Style Sheets"
+          },
+          {
+            "question": "Which is the correct CSS syntax?",
+            "options": [
+              "body {color: black;}",
+              "{body:color=black;}",
+              "{body;color:black;}",
+              "body:color=black;"
+            ],
+            "correctAnswer": "body {color: black;}"
+          },
+          {
+            "question": "Which property is used to change the background color?",
+            "options": ["color", "bgcolor", "background-color", "background"],
+            "correctAnswer": "background-color"
+          },
+          {
+            "question": "Which CSS property controls the text size?",
+            "options": ["text-size", "font-size", "text-style", "font-style"],
+            "correctAnswer": "font-size"
+          },
+          {
+            "question": "How do you make the text bold?",
+            "options": ["font-weight: bold;", "font:bold;", "style:bold;", "text:bold;"],
+            "correctAnswer": "font-weight: bold;"
+          }
+        ]
+      }
+    ]
+  }
+  
